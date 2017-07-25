@@ -41,6 +41,8 @@ as the variable.
 
 To generate the page open a Terminal window or Python interpreter and run the
 following:
-[code]python3 site.py[/code]
+```
+python3 site.py
+```
 
 This will generate the page and open the browser to the page for viewing.
