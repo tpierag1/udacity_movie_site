@@ -41,6 +41,23 @@ The second role is to take the instances of this class, store them as a list,
 `movies[]`, and call the function `freshtomatoes.open_movies_page()` with `movies[]`
 as the variable.
 
+To change the movies being displayed one must engage in the following steps:
+
+- Delete the instances of `Movie()` that one wants to eliminate from the page.
+
+- Construct new instances of the class `Movie()`.  This requires knowing
+the title of the movie, the short description of the movie and having links to
+the movie poster the trailer.
+
+For example:
+
+`film = media.Movie("Title", "Description", "Link_To_Poster", "Link_To_Trailer")`
+
+- Insert the movie variable name into the `movies[]` list and delete all movies
+that one does not want on the page.
+
+- Save the file and run it to display the new selection of movies.
+
 
 <h3>Generating the Page</h3>
 
