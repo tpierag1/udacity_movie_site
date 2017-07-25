@@ -61,8 +61,7 @@ that one does not want on the page.
 
 <h3>Generating the Page</h3>
 
-To generate the page open a Terminal window or Python interpreter and run the
-following:
+To generate the page open a Terminal window and run the following:
 ```
 python3 site.py
 ```
