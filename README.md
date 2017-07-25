@@ -44,5 +44,5 @@ following:
 ```
 python3 site.py
 ```
-
+If using a REPL or trying to load the program in Windows open the file site.py and select "Run Script".
 This will generate the page and open the browser to the page for viewing.
