@@ -74,7 +74,7 @@ This will generate the page and open the browser to the page for viewing.
 
 
 
-###License
+### License
 This project is licensed under the MIT License.  
 
 See details [here](https://choosealicense.com/licenses/mit/)
