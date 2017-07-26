@@ -5,11 +5,13 @@ import freshtomatoes
 
 # constructing movies
 dialectic = media.Movie("Can the Dialectic Break Bricks?",
-                        "Detourned samurai film modified to discuss May 1968 uprising in Paris",  # NOQA
+                        "Detourned samurai film modified to discuss May 1968 \
+                        uprising in Paris",
                         "https://upload.wikimedia.org/wikipedia/en/5/59/La_Dialectique_Peut-Elle_Casser_Des_Briques.jpg",  # NOQA
                         "https://youtu.be/mjUNY0433Do")
 
-strike = media.Movie("Strike!", "A film about a general strike in Russia in 1905",  # NOQA
+strike = media.Movie("Strike!", "A film about a general strike in Russia in \
+                     1905",
                      "https://upload.wikimedia.org/wikipedia/commons/9/94/Strike2.JPG",  # NOQA
                      "https://youtu.be/hG_yM7We0C8")
 

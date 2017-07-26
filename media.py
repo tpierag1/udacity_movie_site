@@ -5,7 +5,8 @@ import webbrowser
 class Movie():
     '''Creates a data type whihc stores data about movies'''
 
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):  # NOQA
+    def __init__(self, movie_title, movie_storyline, poster_image,
+                 trailer_youtube):
 
         self.title = movie_title
         self.storyline = movie_storyline
