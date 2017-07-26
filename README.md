@@ -1,4 +1,4 @@
-#Avante Garde and Experimental Film Gallery
+# Avante Garde and Experimental Film Gallery
 
 
 The Avante Garde and Experimental Film Gallery is a reporisoty that constructs
@@ -61,7 +61,7 @@ that one does not want on the page.
 - Save the file and run it to display the new selection of movies.
 
 
-###Generating the Page
+### Generating the Page
 
 To generate the page open a Terminal window and run the following:
 ```
