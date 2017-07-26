@@ -1,4 +1,4 @@
-<h1>Avante Garde and Experimental Film Gallery</h1>
+#Avante Garde and Experimental Film Gallery
 
 
 The Avante Garde and Experimental Film Gallery is a reporisoty that constructs
@@ -33,13 +33,15 @@ film from the YouTube link set within the constructed nistances of `Movie()` in
 
 `site.py`:
 
-This script imports the `freshtomatoes.py` and `media.py` files and plays two roles.
+This script imports the `freshtomatoes.py` and `media.py` files and plays two
+roles.
 
-The first role is to store the instances of the class `Movie()` that are created.
+The first role is to store the instances of the class `Movie()` that are
+created.
 
 The second role is to take the instances of this class, store them as a list,
-`movies[]`, and call the function `freshtomatoes.open_movies_page()` with `movies[]`
-as the variable.
+`movies[]`, and call the function `freshtomatoes.open_movies_page()` with
+ `movies[]` as the variable.
 
 To change the movies being displayed one must engage in the following steps:
 
@@ -59,11 +61,20 @@ that one does not want on the page.
 - Save the file and run it to display the new selection of movies.
 
 
-<h3>Generating the Page</h3>
+###Generating the Page
 
 To generate the page open a Terminal window and run the following:
 ```
 python3 site.py
 ```
-If using a REPL or trying to load the program in Windows open the file `site.py` and select "Run Script".
+If using a REPL or trying to load the program in Windows open the file `site.py`
+and select "Run Script".
+
 This will generate the page and open the browser to the page for viewing.
+
+
+
+###License
+This project is licensed under the MIT License.  
+
+See details [here](https://choosealicense.com/licenses/mit/)
